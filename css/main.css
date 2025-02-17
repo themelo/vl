@@ -81,7 +81,7 @@ section {
 }
 section#intro {
   position: relative;
-  min-height: 100vh;
+  min-height: 85vh;
   width: 100%;
   max-width: 100%;
 }
