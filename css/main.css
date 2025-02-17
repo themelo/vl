@@ -702,6 +702,7 @@ footer .wrapper .info {
 footer .wrapper .info div {
   text-align: left;
   font-family: "TWKL", sans-serif;
+  padding:0 20px 0 0;
 }
 @media (max-width: 860px) {
   footer .wrapper .info div {
@@ -718,7 +719,7 @@ footer .wrapper .info div ul {
   margin-top: 30px;
 }
 footer .wrapper .info div ul li {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 22px;
   color: #FFF;
   text-transform: uppercase;
