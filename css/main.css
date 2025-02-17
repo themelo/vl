@@ -81,9 +81,14 @@ section {
 }
 section#intro {
   position: relative;
-  min-height: 85vh;
+  min-height: 100vh;
   width: 100%;
   max-width: 100%;
+}
+@media (max-width: 1024px) {
+  section#intro {
+  min-height: 85vh;
+  }
 }
 section#intro small {
   position: absolute;
