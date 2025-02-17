@@ -337,6 +337,7 @@ section#intro video {
     max-width: 90%;
     align-items: end;
     padding-bottom: 10%;
+    height: calc(85vh - 90px);
   }
 }
 
@@ -416,6 +417,7 @@ section#intro video {
     max-width: 90%;
     align-items: end;
     padding-bottom: 10%;
+    height: calc(85vh - 90px);
   }
 }
 
@@ -495,6 +497,7 @@ section#intro video {
     max-width: 90%;
     align-items: end;
     padding-bottom: 10%;
+    height: calc(85vh - 90px);
   }
 }
 
@@ -574,6 +577,7 @@ section#intro video {
     max-width: 90%;
     align-items: end;
     padding-bottom: 10%;
+    height: calc(85vh - 90px);
   }
 }
 
