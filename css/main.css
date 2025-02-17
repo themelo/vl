@@ -254,11 +254,16 @@ section#intro .wrapper a.tel {
     border-radius: 100px;
     text-transform: uppercase;
     color: #FFF;
-    padding: 0 14px;
+    padding: 4px 14px;
     font-family: "TWKL", sans-serif;
     cursor: pointer;
     margin: 0 0 10px 0;
   text-decoration:none;
+  display:inline-table;
+  cursor:pointer;
+}
+section#intro .wrapper a.tel:hover {
+  background:#000;
 }
 
 section#intro .wrapper span {
