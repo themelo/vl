@@ -116,6 +116,17 @@ section#intro header ul {
   section#intro header ul {
     display: none;
   }
+  section#intro header img{
+    max-width:140px;
+    margin:0 20px 0 20px;
+  }
+  section#intro header div a {
+    padding:0 8px;
+  }
+  section#intro header div span {
+    margin:0 10px;
+  }
+
 }
 section#intro header ul li {
   font-size: 12px;
