@@ -306,6 +306,8 @@ section#intro video {
     right: 50%;
     transform: translateX(50%);
     top: 180px;
+    font-size:11px;
+    padding:0 8px;
   }
 }
 #dine_wine:before {
@@ -386,6 +388,8 @@ section#intro video {
     right: 50%;
     transform: translateX(50%);
     top: 150px;
+     font-size:11px;
+    padding:0 8px;
   }
 }
 #nikkei:before {
@@ -466,6 +470,8 @@ section#intro video {
     right: 50%;
     transform: translateX(50%);
     top: 150px;
+     font-size:11px;
+    padding:0 8px;
   }
 }
 #charcutaria:before {
@@ -546,6 +552,8 @@ section#intro video {
     right: 50%;
     transform: translateX(50%);
     top: 140px;
+     font-size:11px;
+    padding:0 8px;
   }
 }
 #forest:before {
