@@ -124,7 +124,8 @@ section#intro header ul {
     padding:0 8px;
   }
   section#intro header div span {
-    margin:0 10px;
+    margin:0 10px !important;
+padding: 0 15px !important;
   }
 
 }
