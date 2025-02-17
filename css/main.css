@@ -323,7 +323,7 @@ section#intro video {
   position: relative;
   max-width: 96%;
   margin: 0 auto;
-  background-image: url("images/bg-vela-latina-wine.jpg");
+  background-image: url("../images/bg-vela-latina-wine.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -402,7 +402,7 @@ section#intro video {
   position: relative;
   max-width: 96%;
   margin: 0 auto;
-  background-image: url("/images/bg-nikkei.jpg");
+  background-image: url("../images/bg-nikkei.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -481,7 +481,7 @@ section#intro video {
   position: relative;
   max-width: 96%;
   margin: 0 auto;
-  background-image: url("/images/bg-charcutaria.jpg");
+  background-image: url("../images/bg-charcutaria.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -560,7 +560,7 @@ section#intro video {
   position: relative;
   max-width: 96%;
   margin: 0 auto;
-  background-image: url("/images/bg-forest.jpg");
+  background-image: url("../images/bg-forest.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
